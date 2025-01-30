@@ -12,8 +12,8 @@ export const data = [
     description:
       "Este é o meu primeiro portfólio criado com React, feito para testar ferramentas e bibliotecas modernas, como styled-components, e explorar as possibilidades do React em projetos reais.",
     image: Projeto1,
-    link: "portifolio-att-9m3x.vercel.app",
-    tools: ["React", "JavaScript", "Figma"],  // Alterado para strings
+    link: "https://matheustofani2024.vercel.app",
+    tools: ["React", "JavaScript", "Figma"],  
     data: "11/2024",
     github: "https://github.com/MatheusTofani/portifolioAtt",
   },
@@ -24,7 +24,7 @@ export const data = [
       "Uma Pokédex desenvolvida com JavaScript, SASS e um design criado no Figma. O projeto utiliza uma API para listar e exibir informações detalhadas sobre os Pokémon, sendo um exercício prático de manipulação de dados e estilização utilizando tecnologias simples e eficientes.",
     image: Projeto2,
     link: "https://pokedex-zdcz.vercel.app",
-    tools: ["JavaScript", "SASS", "Figma"],  // Alterado para strings
+    tools: ["JavaScript", "SASS", "Figma"],  
     data: "09/2024",
     github: "https://github.com/MatheusTofani/pokedex",
   },
@@ -35,7 +35,7 @@ export const data = [
       "A landing page Visionaire foi desenvolvida utilizando JavaScript, SASS e um design criado no Figma. O projeto tem como objetivo apresentar de forma atraente e funcional os serviços da Visionaire, com foco na usabilidade e na estética moderna.",
     image: Projeto3,
     link: "https://visionaire-evvento.vercel.app",
-    tools: ["JavaScript", "SASS", "Figma"],  // Alterado para strings
+    tools: ["JavaScript", "SASS", "Figma"],  
     data: "08/2024",
     github: "https://github.com/MatheusTofani/Visionaire",
   },
@@ -46,7 +46,7 @@ export const data = [
       "Esta landing page foi criada como um projeto fictício para promover um serviço de streaming dedicado ao anime One Piece. Utilizando Figma para o design, SASS para a estilização, JavaScript para a interatividade e Grunt para automação de tarefas, o objetivo foi criar uma página atraente e envolvente para os fãs do anime, destacando os recursos e benefícios do serviço de streaming.",
     image: Projeto4,
     link: "https://one-piece-sand.vercel.app",
-    tools: ["JavaScript", "SASS", "Figma"],  // Alterado para strings
+    tools: ["JavaScript", "SASS", "Figma"],  
     data: "08/2024",
     github: "https://github.com/MatheusTofani/OnePiece",
   },
@@ -57,7 +57,7 @@ export const data = [
       "Raku é um projeto sobre culinária japonesa, desenvolvido utilizando JavaScript, Bootstrap e jQuery. A página oferece uma visão geral sobre pratos típicos, com foco em uma interface simples e intuitiva. O uso do Bootstrap garante um design responsivo e o jQuery proporciona uma interatividade dinâmica para a navegação.",
     image: Projeto5,
     link: "https://raku.vercel.app",
-    tools: ["JavaScript", "Bootstrap", "jQuery"],  // Alterado para strings
+    tools: ["JavaScript", "Bootstrap", "jQuery"],  
     data: "07/2024",
     github:
       "https://github.com/MatheusTofani/Projeto-3-Resuarnate_Japones_Raku",
@@ -69,7 +69,7 @@ export const data = [
       "Uma lista de contatos desenvolvida com TypeScript e React. O projeto permite adicionar, editar, filtrar e apagar contatos de maneira dinâmica. Utilizando o TypeScript para garantir a tipagem segura dos dados e o React para criar uma interface interativa, o projeto oferece uma experiência fluida e eficiente na gestão de contatos.",
     image: Projeto6,
     link: "https://contact-list-seven-ashen.vercel.app",
-    tools: ["React", "TypeScript"],  // Alterado para strings
+    tools: ["React", "TypeScript"],  
     data: "11/2024",
     github: "https://github.com/MatheusTofani/Contact-List",
   },

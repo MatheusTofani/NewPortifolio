@@ -2,8 +2,8 @@ import styled from "styled-components";
 
 export const SobreContainer = styled.div`
     display: flex;
-    flex-direction: column;
-    justify-content: start;
+    justify-content: start;  
+    flex-direction: column;  
     gap: 30px;
     width: 50%;
 
@@ -19,4 +19,7 @@ export const SobreTitle = styled.h1`
 
 export const SobreDescription = styled.p`
     color: white;
+    text-align:start;
+    line-height: 25px;
+   font-size: 18px;
 `;
