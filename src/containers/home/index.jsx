@@ -25,7 +25,7 @@ const Home = () => {
                             />
                         </HomeWriter>
                         <HomeButtons>
-                            <Button background="linear-gradient(90deg, #442494 0%, #5A30C5 100%)" color="white" hoverBackground="linear-gradient(90deg, #755ab9 0%, #5A30C5 100%)"><a href="/curriculo.docx" download style={{textDecoration: "none", color: "white"}}>Baixar CV</a></Button>
+                            <Button background="linear-gradient(90deg, #442494 0%, #5A30C5 100%)" color="white" hoverBackground="linear-gradient(90deg, #755ab9 0%, #5A30C5 100%)"><a href="/curriculo.pdf" download style={{textDecoration: "none", color: "white"}}>Baixar CV</a></Button>
                             <Button backgroundColor="transparent" border="1px solid #5A30C5" color="white" hoverBackgroundColor="#5A30C5"><a target="_blank" href="https://wa.me/5531991580240" download style={{textDecoration: "none", color: "white"}}>Entrar em contato</a></Button>
                         </HomeButtons>
                     </HomeContent>
